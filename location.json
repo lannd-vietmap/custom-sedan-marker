@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Điểm Bắt Đầu",
+      "latitude": 10.7765,
+      "longitude": 106.6853,
+      "type": "start"
+    },
+    {
+      "id": 2,
+      "name": "Cây Xăng Petrolimex 1",
+      "latitude": 10.7709,
+      "longitude": 106.6902,
+      "type": "petrol"
+    },
+    {
+      "id": 3,
+      "name": "Cây Xăng Petrolimex 2",
+      "latitude": 10.7821,
+      "longitude": 106.6985,
+      "type": "petrol"
+    },
+    {
+      "id": 4,
+      "name": "Cây Xăng Petrolimex 3",
+      "latitude": 10.7758,
+      "longitude": 106.7056,
+      "type": "petrol"
+    },
+    {
+      "id": 5,
+      "name": "Điểm Kết Thúc",
+      "latitude": 10.7784,
+      "longitude": 106.7031,
+      "type": "end"
+    }
+  ]
+  
